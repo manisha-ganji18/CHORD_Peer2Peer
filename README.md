@@ -10,8 +10,6 @@ Navigate to the chord directory:
 cd chord 
 
 run the below command
-
-command to execute - 
 ```
 dotnet fsi Program.fsx <num_of_nodes> <num_of_requests>
 ```
