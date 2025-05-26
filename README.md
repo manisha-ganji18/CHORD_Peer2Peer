@@ -6,7 +6,10 @@ This project was developed in F# using AKKA framework to handle the asynchronous
 
 Execution Steps
 
-Firstly checkout to chord folder and run the below command
+Navigate to the chord directory:
+cd chord 
+
+run the below command
 
 command to execute - 
 ```
